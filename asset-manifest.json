@@ -1,15 +1,15 @@
 {
-  "main.css": "/TextUtils-React-App/static/css/main.4c9631f7.chunk.css",
-  "main.js": "/TextUtils-React-App/static/js/main.0ef3df57.chunk.js",
-  "main.js.map": "/TextUtils-React-App/static/js/main.0ef3df57.chunk.js.map",
-  "static/js/1.03ae7ea8.chunk.js": "/TextUtils-React-App/static/js/1.03ae7ea8.chunk.js",
-  "static/js/1.03ae7ea8.chunk.js.map": "/TextUtils-React-App/static/js/1.03ae7ea8.chunk.js.map",
-  "static/js/2.5b977f20.chunk.js": "/TextUtils-React-App/static/js/2.5b977f20.chunk.js",
-  "static/js/2.5b977f20.chunk.js.map": "/TextUtils-React-App/static/js/2.5b977f20.chunk.js.map",
-  "runtime~main.js": "/TextUtils-React-App/static/js/runtime~main.b45192f4.js",
-  "runtime~main.js.map": "/TextUtils-React-App/static/js/runtime~main.b45192f4.js.map",
-  "static/css/main.4c9631f7.chunk.css.map": "/TextUtils-React-App/static/css/main.4c9631f7.chunk.css.map",
+  "main.css": "/TextUtils-React-App/static/css/main.6947923d.chunk.css",
+  "main.js": "/TextUtils-React-App/static/js/main.11cc2139.chunk.js",
+  "main.js.map": "/TextUtils-React-App/static/js/main.11cc2139.chunk.js.map",
+  "runtime~main.js": "/TextUtils-React-App/static/js/runtime~main.e82798a4.js",
+  "runtime~main.js.map": "/TextUtils-React-App/static/js/runtime~main.e82798a4.js.map",
+  "static/js/2.7d51d47b.chunk.js": "/TextUtils-React-App/static/js/2.7d51d47b.chunk.js",
+  "static/js/2.7d51d47b.chunk.js.map": "/TextUtils-React-App/static/js/2.7d51d47b.chunk.js.map",
+  "static/js/3.7fa365a8.chunk.js": "/TextUtils-React-App/static/js/3.7fa365a8.chunk.js",
+  "static/js/3.7fa365a8.chunk.js.map": "/TextUtils-React-App/static/js/3.7fa365a8.chunk.js.map",
   "index.html": "/TextUtils-React-App/index.html",
-  "precache-manifest.f1badeb4a1fd274d97a0214c8b121d3b.js": "/TextUtils-React-App/precache-manifest.f1badeb4a1fd274d97a0214c8b121d3b.js",
-  "service-worker.js": "/TextUtils-React-App/service-worker.js"
+  "precache-manifest.d0b5e4da76e616ffb473fce771ae783c.js": "/TextUtils-React-App/precache-manifest.d0b5e4da76e616ffb473fce771ae783c.js",
+  "service-worker.js": "/TextUtils-React-App/service-worker.js",
+  "static/css/main.6947923d.chunk.css.map": "/TextUtils-React-App/static/css/main.6947923d.chunk.css.map"
 }
