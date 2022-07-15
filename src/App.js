@@ -3,12 +3,12 @@ import './App.css';
 import Navbar from './components/Navbar';
 import Textform from './components/Textform';
 import Alert from './components/Alert';
-// import About from './components/About';
-// import {
-//   BrowserRouter as Router,
-//   Routes,
-//   Route
-// } from "react-router-dom";
+import About from './components/About';
+import {
+  BrowserRouter as Router,
+  Routes,
+  Route
+} from "react-router-dom";
 
 
 function App() {
@@ -49,11 +49,16 @@ function App() {
 
   return (
     <>
+      <Router>
         <Navbar title="TextUtils" aboutme="About " mode={mode} handleMode={handleMode} modetext={modeText} />
         <Alert alert={alert} />
         <div className="container my-3">
-          <Textform title="Write your text below." mode={mode} showAlert={showAlert}/>
+          <Routes>
+            <Route path="/about" element={<About mode={mode}/>} />
+            <Route path="/" element={<Textform title="Write your text below." mode={mode} showAlert={showAlert}/>} />
+          </Routes>
         </div>
+      </Router>
     </>
   );
 }
